@@ -51,6 +51,6 @@ public class NameToHeight {
 		System.out.println("look up name:");
 		lookUp = in.next();
 		}
-
+		// hi
 	}
 }
